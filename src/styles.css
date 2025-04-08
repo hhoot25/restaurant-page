@@ -26,7 +26,8 @@ header{
 
 
 header > *:hover{
-    background-color:yellow;
+    background-color:blue;
+    opacity:1;
 }
 
 #content{
